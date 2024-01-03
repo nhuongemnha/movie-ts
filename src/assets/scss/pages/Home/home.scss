@@ -1,0 +1,6 @@
+.activePhim {
+  @apply bg-gray-800 text-white;
+}
+.noneActive {
+  @apply bg-white text-black border-2 border-black;
+}

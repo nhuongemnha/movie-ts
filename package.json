@@ -1,0 +1,77 @@
+{
+  "name": "react_app_ts_bc17",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@reduxjs/toolkit": "^1.8.1",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.1.1",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/axios": "^0.14.0",
+    "@types/history": "^5.0.0",
+    "@types/jest": "^27.5.0",
+    "@types/lodash": "^4.14.182",
+    "@types/node": "^16.11.33",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2",
+    "@types/react-redux": "^7.1.24",
+    "@types/react-router-dom": "^5.3.0",
+    "@types/redux": "^3.6.0",
+    "@types/redux-thunk": "^2.1.0",
+    "antd": "^4.20.2",
+    "formik": "^2.2.9",
+    "history": "^4.10.0",
+    "i18next": "^21.8.5",
+    "i18next-browser-languagedetector": "^6.1.4",
+    "i18next-http-backend": "^1.4.1",
+    "moment": "^2.29.3",
+    "node-sass": "^7.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-i18next": "^11.16.9",
+    "react-redux": "^8.0.1",
+    "react-router-dom": "^5.3.0",
+    "react-router-prop-types": "^1.0.5",
+    "react-scripts": "5.0.1",
+    "sass-loader": "^12.6.0",
+    "swiper": "^8.1.4",
+    "typescript": "^4.6.4",
+    "web-vitals": "^2.1.4",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.13",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.7.0"
+  },
+  "license": "MIT",
+  "tags": [
+    "swiper"
+  ]
+}

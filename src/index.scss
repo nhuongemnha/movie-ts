@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "./assets/scss/Template/AdminTemplate.scss";
+@import "./assets/scss/Components/Loading/Loading.scss";
+@import "./assets/scss/pages/Details/detail.scss";
+@import "./assets/scss/themes/variable";
+@import "./assets/scss/pages/Home/home.scss";
+@import "./assets/scss/Components/HeaderHome.scss";
+@import "./assets/scss/pages/Home/HomeMenu/homeMenu.scss";
+@import "./assets//scss/pages/Checkout/Checkout.scss";
+@import "./assets/scss/themes/circle"; // cricle
+// swiper scss
+@import "./assets/scss/Components/Swiper/SwiperStyle.scss";
+@import "swiper/css/bundle";
